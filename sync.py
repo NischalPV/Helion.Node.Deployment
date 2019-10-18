@@ -1,6 +1,7 @@
 
 #!/usr/bin/python
 # coding=utf-8
+#Author : Nischal Varasada, Invert Triangle
 
 from __future__ import print_function
 from subprocess import check_output, call
